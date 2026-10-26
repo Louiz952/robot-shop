@@ -3,3 +3,6 @@
 *-private.*
 vendor/
 Gopkg.lock
+# Local monitoring backups and temporary files
+grafana.db.backup
+/3000
